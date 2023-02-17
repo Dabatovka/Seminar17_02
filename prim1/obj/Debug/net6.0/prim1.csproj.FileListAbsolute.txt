@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\bin\Debug\net6.0\prim1.exe
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\bin\Debug\net6.0\prim1.deps.json
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\bin\Debug\net6.0\prim1.runtimeconfig.json
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\bin\Debug\net6.0\prim1.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\bin\Debug\net6.0\prim1.pdb
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\refint\prim1.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.pdb
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\prim1.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim1\obj\Debug\net6.0\ref\prim1.dll
