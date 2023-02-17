@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\bin\Debug\net6.0\prim2.exe
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\bin\Debug\net6.0\prim2.deps.json
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\bin\Debug\net6.0\prim2.runtimeconfig.json
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\bin\Debug\net6.0\prim2.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\bin\Debug\net6.0\prim2.pdb
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\refint\prim2.dll
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.pdb
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\prim2.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim2\obj\Debug\net6.0\ref\prim2.dll
