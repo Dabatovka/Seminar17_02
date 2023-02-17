@@ -1,0 +1,5 @@
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim3\obj\Debug\net6.0\prim3.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim3\obj\Debug\net6.0\prim3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim3\obj\Debug\net6.0\prim3.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim3\obj\Debug\net6.0\prim3.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GeekBrains\Seminar_2\prim3\obj\Debug\net6.0\prim3.csproj.CoreCompileInputs.cache
